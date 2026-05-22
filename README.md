@@ -29,4 +29,4 @@ Clinical Data Analysis | Machine Learning | Biomedical Data Science
 ## Author
 Mariana  Farah
 M.Sc. Biomedical Engineering  
-Clinical Data Analysis | Medical Writing | Regulation & Clinical Affairs
+Clinical Data Analysis | Data Scientist | Medical Writing | Regulation & Clinical Affairs
